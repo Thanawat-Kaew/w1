@@ -3,4 +3,5 @@ Mobiles
 Tablet
 Laptops
 cameras
+Powerbank
 Headphone
